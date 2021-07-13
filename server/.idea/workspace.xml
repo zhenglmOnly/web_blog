@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67b24497-8ca5-4d55-b2fd-e5c0199943b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZbAsIA1UYqc1EUzVRtQvICaQeP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../blogAdmin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Vue\blog\server\public\img\upload" />
+      <recent name="E:\Vue\blog\server\routes\upload" />
+      <recent name="E:\Vue\blog\server\public\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67b24497-8ca5-4d55-b2fd-e5c0199943b8" name="Default Changelist" comment="" />
+      <created>1585097624697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585097624697</updated>
+      <workItem from="1585097627479" duration="17502000" />
+      <workItem from="1585231752335" duration="6434000" />
+      <workItem from="1585291546101" duration="2611000" />
+      <workItem from="1585307929086" duration="647000" />
+      <workItem from="1585318649137" duration="2049000" />
+      <workItem from="1585369716421" duration="1304000" />
+      <workItem from="1585403253677" duration="105000" />
+      <workItem from="1585403415741" duration="1241000" />
+      <workItem from="1585455635836" duration="11273000" />
+      <workItem from="1585572508765" duration="1800000" />
+      <workItem from="1585582704703" duration="530000" />
+      <workItem from="1585583459849" duration="1266000" />
+      <workItem from="1585632425508" duration="1834000" />
+      <workItem from="1585646705741" duration="1268000" />
+      <workItem from="1585662049774" duration="6490000" />
+      <workItem from="1585754022173" duration="4446000" />
+      <workItem from="1585836106051" duration="3070000" />
+      <workItem from="1585920614162" duration="5361000" />
+      <workItem from="1585964101068" duration="6639000" />
+      <workItem from="1586069250357" duration="9169000" />
+      <workItem from="1586084849162" duration="9741000" />
+      <workItem from="1586175310463" duration="12762000" />
+      <workItem from="1586234547572" duration="2190000" />
+      <workItem from="1586315729076" duration="7095000" />
+      <workItem from="1586405416768" duration="18386000" />
+      <workItem from="1586492418207" duration="9996000" />
+      <workItem from="1586579603663" duration="16563000" />
+      <workItem from="1586653333342" duration="34089000" />
+      <workItem from="1586781070011" duration="1263000" />
+      <workItem from="1586838709758" duration="25050000" />
+      <workItem from="1586989470364" duration="8132000" />
+      <workItem from="1587130135442" duration="2182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="217" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586181081670">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="217" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586181081670" />
+    <state x="433" y="216" key="FileChooserDialogImpl" timestamp="1587200992617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="216" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587200992617" />
+    <state width="1291" height="125" key="GridCell.Tab.0.bottom" timestamp="1587200997885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587200997885" />
+    <state width="1291" height="125" key="GridCell.Tab.0.center" timestamp="1587200997884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587200997884" />
+    <state width="1291" height="125" key="GridCell.Tab.0.left" timestamp="1587200997884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587200997884" />
+    <state width="1291" height="125" key="GridCell.Tab.0.right" timestamp="1587200997884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587200997884" />
+    <state x="580" y="0" width="786" height="900" key="find.popup" timestamp="1585842302885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="580" y="0" width="786" height="900" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585842302885" />
+    <state x="353" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586904076257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586904076257" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/login/index.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/message/index.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/article/index.js</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/article/index.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/message/index.js</url>
+          <line>63</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/article/index.js</url>
+          <line>93</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://F:/Vue/实战0407/blog - 副本/server/routes/register/index.js</url>
+          <line>79</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/login/index.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
